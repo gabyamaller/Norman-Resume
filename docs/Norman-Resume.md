@@ -12,7 +12,7 @@ Aspiriring Data Scientist
 | <a href="https://github.com/bridger-norman/Norman-Resume">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->\
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Summary
 
